@@ -3,6 +3,7 @@
 /home/sriram/dev_ws/install/my_bot/share/my_bot/config/mapper_params_online_async.yaml
 /home/sriram/dev_ws/install/my_bot/share/my_bot/config/move_bot_rviz.rviz
 /home/sriram/dev_ws/install/my_bot/share/my_bot/config/my_controllers.yaml
+/home/sriram/dev_ws/install/my_bot/share/my_bot/config/twist_mux.yaml
 /home/sriram/dev_ws/install/my_bot/share/my_bot/config/view_bot_rviz.rviz
 /home/sriram/dev_ws/install/my_bot/share/my_bot/description/camera.xacro
 /home/sriram/dev_ws/install/my_bot/share/my_bot/description/depth_camera.xacro
@@ -14,7 +15,12 @@
 /home/sriram/dev_ws/install/my_bot/share/my_bot/description/robot_core.xacro
 /home/sriram/dev_ws/install/my_bot/share/my_bot/description/ros2_control.xacro
 /home/sriram/dev_ws/install/my_bot/share/my_bot/launch/camera.launch.py
+/home/sriram/dev_ws/install/my_bot/share/my_bot/launch/joystick.launch.py
+/home/sriram/dev_ws/install/my_bot/share/my_bot/launch/launch_robot.launch.py
 /home/sriram/dev_ws/install/my_bot/share/my_bot/launch/launch_sim.launch.py
+/home/sriram/dev_ws/install/my_bot/share/my_bot/launch/localization_launch.py
+/home/sriram/dev_ws/install/my_bot/share/my_bot/launch/online_async_launch.py
+/home/sriram/dev_ws/install/my_bot/share/my_bot/launch/rplidar.launch.py
 /home/sriram/dev_ws/install/my_bot/share/my_bot/launch/rsp.launch.py
 /home/sriram/dev_ws/install/my_bot/share/my_bot/worlds/empty.world
 /home/sriram/dev_ws/install/my_bot/share/my_bot/worlds/obstacles.world
